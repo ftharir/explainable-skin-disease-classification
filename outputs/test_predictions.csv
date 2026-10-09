@@ -1,0 +1,186 @@
+file,true,predicted,correct
+032839HB.jpg,Acne,Eczema,0
+032897HB.jpg,Acne,Eczema,0
+07AcnePittedScars1.jpg,Acne,Acne,1
+acne-Closed-Comedo.jpg,Acne,Eczema,0
+acne-closed-comedo-8.jpg,Acne,Acne,1
+acne-cystic-13.jpg,Acne,Acne,1
+acne-excoriated-24.jpg,Acne,Acne,1
+acne-excoriated-27.jpg,Acne,Acne,1
+acne-infantile-1.jpg,Acne,Acne,1
+acne-open-comedo-58.jpg,Acne,Acne,1
+acne-open-comedo-59.jpg,Acne,Acne,1
+acne-open-comedo-61.jpg,Acne,Acne,1
+acne-open-comedo-62.jpg,Acne,Acne,1
+acne-open-comedo-63.jpg,Acne,Acne,1
+acne-open-comedo-64.jpg,Acne,Acne,1
+acne-open-comedo-65.jpg,Acne,Acne,1
+acne-open-comedo-66.jpg,Acne,Basal Cell Carcinoma,0
+acne-open-comedo-68.jpg,Acne,Acne,1
+acne-open-comedo-73.jpg,Acne,Basal Cell Carcinoma,0
+acne-pustular-10.jpg,Acne,Acne,1
+acne-pustular-12.jpg,Acne,Acne,1
+acne-pustular-13.jpg,Acne,Acne,1
+acne-pustular-14.jpg,Acne,Acne,1
+acne-pustular-15.jpg,Acne,Acne,1
+acne-pustular-16.jpg,Acne,Acne,1
+acne-pustular-17.jpg,Acne,Acne,1
+acne-pustular-18.jpg,Acne,Acne,1
+acne-pustular-21.jpg,Acne,Acne,1
+acne-pustular-23.jpg,Acne,Acne,1
+acne-pustular-24.jpg,Acne,Acne,1
+acne-pustular-25.jpg,Acne,Acne,1
+acne-pustular-27.jpg,Acne,Acne,1
+acne-pustular-28.jpg,Acne,Acne,1
+acne-pustular-29.jpg,Acne,Acne,1
+acne-pustular-30.jpg,Acne,Acne,1
+acne-pustular-31.jpg,Acne,Acne,1
+acne-pustular-43.jpg,Acne,Acne,1
+actinic-keratosis-5FU-10.jpg,Actinic Keratosis,Actinic Keratosis,1
+actinic-keratosis-5FU-15.jpg,Actinic Keratosis,Actinic Keratosis,1
+actinic-keratosis-5FU-25.jpg,Actinic Keratosis,Actinic Keratosis,1
+actinic-keratosis-5FU-26.jpg,Actinic Keratosis,Actinic Keratosis,1
+actinic-keratosis-5FU-32.jpg,Actinic Keratosis,Actinic Keratosis,1
+actinic-keratosis-5FU-35.jpg,Actinic Keratosis,Actinic Keratosis,1
+actinic-keratosis-5FU-65.jpg,Actinic Keratosis,Rosacea,0
+actinic-keratosis-face-33.jpg,Actinic Keratosis,Rosacea,0
+actinic-keratosis-face-35.jpg,Actinic Keratosis,Rosacea,0
+actinic-keratosis-face-39.jpg,Actinic Keratosis,Basal Cell Carcinoma,0
+actinic-keratosis-face-43.jpg,Actinic Keratosis,Actinic Keratosis,1
+actinic-keratosis-face-46.jpg,Actinic Keratosis,Basal Cell Carcinoma,0
+actinic-keratosis-face-48.jpg,Actinic Keratosis,Basal Cell Carcinoma,0
+actinic-keratosis-face-49.jpg,Actinic Keratosis,Rosacea,0
+actinic-keratosis-face-50.jpg,Actinic Keratosis,Actinic Keratosis,1
+actinic-keratosis-face-51.jpg,Actinic Keratosis,Actinic Keratosis,1
+actinic-keratosis-face-56.jpg,Actinic Keratosis,Rosacea,0
+actinic-keratosis-face-60.jpg,Actinic Keratosis,Actinic Keratosis,1
+actinic-keratosis-face-9.jpg,Actinic Keratosis,Basal Cell Carcinoma,0
+actinic-keratosis-horn-1.jpg,Actinic Keratosis,Actinic Keratosis,1
+actinic-keratosis-horn-23.jpg,Actinic Keratosis,Basal Cell Carcinoma,0
+actinic-keratosis-horn-24.jpg,Actinic Keratosis,Actinic Keratosis,1
+actinic-keratosis-lesion-11.jpg,Actinic Keratosis,Basal Cell Carcinoma,0
+actinic-keratosis-lesion-22.jpg,Actinic Keratosis,Actinic Keratosis,1
+actinic-keratosis-lesion-24.jpg,Actinic Keratosis,Actinic Keratosis,1
+actinic-keratosis-lesion-31.jpg,Actinic Keratosis,Actinic Keratosis,1
+actinic-keratosis-lesion-32.jpg,Actinic Keratosis,Actinic Keratosis,1
+actinic-keratosis-lesion-34.jpg,Actinic Keratosis,Acne,0
+actinic-keratosis-lesion-36.jpg,Actinic Keratosis,Actinic Keratosis,1
+actinic-keratosis-lesion-39.jpg,Actinic Keratosis,Actinic Keratosis,1
+actinic-keratosis-lesion-41.jpg,Actinic Keratosis,Actinic Keratosis,1
+actinic-keratosis-lesion-48.jpg,Actinic Keratosis,Eczema,0
+actinic-keratosis-lesion-52.jpg,Actinic Keratosis,Actinic Keratosis,1
+actinic-keratosis-lesion-56.jpg,Actinic Keratosis,Basal Cell Carcinoma,0
+actinic-keratosis-lesion-57.jpg,Actinic Keratosis,Actinic Keratosis,1
+actinic-keratosis-nose-1.jpg,Actinic Keratosis,Actinic Keratosis,1
+actinic-keratosis-nose-14.jpg,Actinic Keratosis,Actinic Keratosis,1
+basal-cell-carcinoma-face-10.jpg,Basal Cell Carcinoma,Basal Cell Carcinoma,1
+basal-cell-carcinoma-face-11.jpg,Basal Cell Carcinoma,Basal Cell Carcinoma,1
+basal-cell-carcinoma-face-13.jpg,Basal Cell Carcinoma,Basal Cell Carcinoma,1
+basal-cell-carcinoma-face-22.jpg,Basal Cell Carcinoma,Basal Cell Carcinoma,1
+basal-cell-carcinoma-face-4.jpg,Basal Cell Carcinoma,Basal Cell Carcinoma,1
+basal-cell-carcinoma-face-9.jpg,Basal Cell Carcinoma,Basal Cell Carcinoma,1
+basal-cell-carcinoma-lesion-92.jpg,Basal Cell Carcinoma,Basal Cell Carcinoma,1
+basal-cell-carcinoma-lid-11.jpg,Basal Cell Carcinoma,Basal Cell Carcinoma,1
+basal-cell-carcinoma-lid-16.jpg,Basal Cell Carcinoma,Basal Cell Carcinoma,1
+basal-cell-carcinoma-lid-17.jpg,Basal Cell Carcinoma,Basal Cell Carcinoma,1
+basal-cell-carcinoma-lid-18.jpg,Basal Cell Carcinoma,Basal Cell Carcinoma,1
+basal-cell-carcinoma-lid-22.jpg,Basal Cell Carcinoma,Basal Cell Carcinoma,1
+basal-cell-carcinoma-lid-23.jpg,Basal Cell Carcinoma,Basal Cell Carcinoma,1
+basal-cell-carcinoma-lid-24.jpg,Basal Cell Carcinoma,Basal Cell Carcinoma,1
+basal-cell-carcinoma-lid-25.jpg,Basal Cell Carcinoma,Basal Cell Carcinoma,1
+basal-cell-carcinoma-lid-26.jpg,Basal Cell Carcinoma,Basal Cell Carcinoma,1
+basal-cell-carcinoma-lid-31.jpg,Basal Cell Carcinoma,Basal Cell Carcinoma,1
+basal-cell-carcinoma-lid-4.jpg,Basal Cell Carcinoma,Basal Cell Carcinoma,1
+basal-cell-carcinoma-lid-6.jpg,Basal Cell Carcinoma,Basal Cell Carcinoma,1
+basal-cell-carcinoma-lid-8.jpg,Basal Cell Carcinoma,Basal Cell Carcinoma,1
+basal-cell-carcinoma-lip-14.jpg,Basal Cell Carcinoma,Basal Cell Carcinoma,1
+basal-cell-carcinoma-lip-26.jpg,Basal Cell Carcinoma,Basal Cell Carcinoma,1
+basal-cell-carcinoma-lip-27.jpg,Basal Cell Carcinoma,Basal Cell Carcinoma,1
+basal-cell-carcinoma-lip-30.jpg,Basal Cell Carcinoma,Basal Cell Carcinoma,1
+basal-cell-carcinoma-lip-31.jpg,Basal Cell Carcinoma,Basal Cell Carcinoma,1
+basal-cell-carcinoma-lip-32.jpg,Basal Cell Carcinoma,Basal Cell Carcinoma,1
+basal-cell-carcinoma-lip-34.jpg,Basal Cell Carcinoma,Basal Cell Carcinoma,1
+basal-cell-carcinoma-lip-5.jpg,Basal Cell Carcinoma,Basal Cell Carcinoma,1
+basal-cell-carcinoma-nose-1.jpg,Basal Cell Carcinoma,Basal Cell Carcinoma,1
+basal-cell-carcinoma-nose-21.jpg,Basal Cell Carcinoma,Basal Cell Carcinoma,1
+basal-cell-carcinoma-nose-38.jpg,Basal Cell Carcinoma,Basal Cell Carcinoma,1
+basal-cell-carcinoma-nose-44.jpg,Basal Cell Carcinoma,Eczema,0
+basal-cell-carcinoma-nose-70.jpg,Basal Cell Carcinoma,Basal Cell Carcinoma,1
+basal-cell-carcinoma-nose-71.jpg,Basal Cell Carcinoma,Basal Cell Carcinoma,1
+basal-cell-carcinoma-nose-72.jpg,Basal Cell Carcinoma,Basal Cell Carcinoma,1
+basal-cell-carcinoma-nose-73.jpg,Basal Cell Carcinoma,Basal Cell Carcinoma,1
+basal-cell-carcinoma-nose-74.jpg,Basal Cell Carcinoma,Basal Cell Carcinoma,1
+eczem49.jpg,Eczema,Eczema,1
+eczema-acute-20.jpg,Eczema,Eczema,1
+eczema-acute-22.jpg,Eczema,Rosacea,0
+eczema-chronic-14.jpg,Eczema,Eczema,1
+eczema-chronic-47.jpg,Eczema,Basal Cell Carcinoma,0
+eczema-ears-6.jpg,Eczema,Eczema,1
+eczema-face-1.jpg,Eczema,Acne,0
+eczema-face-11.jpg,Eczema,Rosacea,0
+eczema-lids-14.jpg,Eczema,Actinic Keratosis,0
+eczema-lids-9.jpg,Eczema,Actinic Keratosis,0
+eczema.14.jpg,Eczema,Eczema,1
+eczema.20.jpg,Eczema,Eczema,1
+eczema.21.jpg,Eczema,Eczema,1
+eczema.25.jpg,Eczema,Eczema,1
+eczema.5.jpg,Eczema,Eczema,1
+eczema.8.jpg,Eczema,Eczema,1
+eczema.jpg,Eczema,Eczema,1
+eczema130.jpg,Eczema,Eczema,1
+eczema134.jpg,Eczema,Actinic Keratosis,0
+eczema135.jpg,Eczema,Eczema,1
+eczema136.jpg,Eczema,Eczema,1
+eczema142.jpg,Eczema,Eczema,1
+eczema144.jpg,Eczema,Eczema,1
+eczema147.jpg,Eczema,Eczema,1
+eczema148.jpg,Eczema,Eczema,1
+eczema149.jpg,Eczema,Eczema,1
+eczema155.png,Eczema,Eczema,1
+eczema23.jpg,Eczema,Eczema,1
+eczema28..jpg,Eczema,Eczema,1
+eczema31.jpg,Eczema,Eczema,1
+eczema43.jpg,Eczema,Eczema,1
+eczema48.jpeg,Eczema,Eczema,1
+eczema52.jpg,Eczema,Eczema,1
+eczema53.jpg,Eczema,Eczema,1
+eczema54.jpg,Eczema,Eczema,1
+eczema7.jpg,Eczema,Eczema,1
+eczema8.jpg,Eczema,Basal Cell Carcinoma,0
+rosacea-102.jpg,Rosacea,Rosacea,1
+rosacea-111.jpg,Rosacea,Basal Cell Carcinoma,0
+rosacea-112.jpg,Rosacea,Rosacea,1
+rosacea-113.jpg,Rosacea,Rosacea,1
+rosacea-116.jpg,Rosacea,Rosacea,1
+rosacea-117.jpg,Rosacea,Rosacea,1
+rosacea-14.jpg,Rosacea,Rosacea,1
+rosacea-16.jpg,Rosacea,Rosacea,1
+rosacea-21.jpg,Rosacea,Rosacea,1
+rosacea-26.jpg,Rosacea,Rosacea,1
+rosacea-31.jpg,Rosacea,Rosacea,1
+rosacea-33.jpg,Rosacea,Rosacea,1
+rosacea-4.jpg,Rosacea,Acne,0
+rosacea-40.jpg,Rosacea,Rosacea,1
+rosacea-41.jpg,Rosacea,Rosacea,1
+rosacea-44.jpg,Rosacea,Rosacea,1
+rosacea-45.jpg,Rosacea,Rosacea,1
+rosacea-49.jpg,Rosacea,Rosacea,1
+rosacea-52.jpg,Rosacea,Rosacea,1
+rosacea-54.jpg,Rosacea,Rosacea,1
+rosacea-58.jpg,Rosacea,Rosacea,1
+rosacea-60.jpg,Rosacea,Rosacea,1
+rosacea-68.jpg,Rosacea,Rosacea,1
+rosacea-71.jpg,Rosacea,Rosacea,1
+rosacea-8.jpg,Rosacea,Rosacea,1
+rosacea-81.jpg,Rosacea,Rosacea,1
+rosacea-83.jpg,Rosacea,Acne,0
+rosacea-86.jpg,Rosacea,Basal Cell Carcinoma,0
+rosacea-89.jpg,Rosacea,Eczema,0
+rosacea-90.jpg,Rosacea,Acne,0
+rosacea-91.jpg,Rosacea,Acne,0
+rosacea-94.jpg,Rosacea,Rosacea,1
+rosacea-96.jpg,Rosacea,Rosacea,1
+rosacea-99.jpg,Rosacea,Rosacea,1
+rosacea-nose-10.jpg,Rosacea,Basal Cell Carcinoma,0
+rosacea-nose-11.jpg,Rosacea,Rosacea,1
+rosacea-nose-5.jpg,Rosacea,Basal Cell Carcinoma,0

@@ -1,0 +1,46 @@
+{
+  "val": {
+    "images": 65,
+    "loss": 0.4786,
+    "accuracy": 0.7846,
+    "macro_f1": 0.785
+  },
+  "test": {
+    "images": 185,
+    "loss": 0.536,
+    "accuracy": 0.8,
+    "macro_f1": 0.797
+  },
+  "test_per_class": {
+    "Acne": {
+      "precision": 0.842,
+      "recall": 0.865,
+      "f1-score": 0.853,
+      "support": 37
+    },
+    "Actinic Keratosis": {
+      "precision": 0.885,
+      "recall": 0.622,
+      "f1-score": 0.73,
+      "support": 37
+    },
+    "Basal Cell Carcinoma": {
+      "precision": 0.706,
+      "recall": 0.973,
+      "f1-score": 0.818,
+      "support": 37
+    },
+    "Eczema": {
+      "precision": 0.829,
+      "recall": 0.784,
+      "f1-score": 0.806,
+      "support": 37
+    },
+    "Rosacea": {
+      "precision": 0.8,
+      "recall": 0.757,
+      "f1-score": 0.778,
+      "support": 37
+    }
+  }
+}
